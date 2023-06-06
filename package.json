@@ -29,7 +29,7 @@
     "url": "https://github.com/atom/fs-admin/issues"
   },
   "dependencies": {
-    "nan": "^2.13.2",
+    "nan": "^2.17.0",
     "prebuild-install": "5.3.5"
   },
   "devDependencies": {
